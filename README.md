@@ -18,6 +18,8 @@ Neste sentido, construímos um Dashboard no Power BI, a partir da base de dados 
 
 ![image](https://github.com/KelsonHenrique/petshop-analytics/assets/141082201/f9df4d76-9352-4287-afdc-680cbb9f4711)
 
-O resultado final pode ser visto, por meio do Dashboard, abaixo
+
+## O resultado final pode ser visto, por meio do Dashboard, abaixo
+
 
 ![image](https://github.com/KelsonHenrique/petshop-analytics/assets/141082201/7bb86594-cdb7-447c-ac22-847dbc7ad6ac)
